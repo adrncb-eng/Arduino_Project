@@ -50,7 +50,6 @@ Pin 1 -> 5V
 Pin 2 -> V0 del LCD
 Pin 3 -> GND
 ________________________________________
-NOTA IMPORTANTE
 En Tinkercad no existe el sensor combinado DHT11, por lo que en el montaje digital se ha usado un sensor de temperatura simple como referencia.
 En el código actual se muestra la temperatura pero no la humedad por pantalla del LCD, debido a cambios de última hora. La humedad se incorporará posteriormente.
 ________________________________________
