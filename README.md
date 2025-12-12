@@ -55,8 +55,8 @@ En el código actual se muestra la temperatura pero no la humedad por pantalla d
 ________________________________________
 FUNCIONAMIENTO DEL SISTEMA
 1.	El sensor DHT11 mide la temperatura.
-2.	Arduino muestra la temperatura en el LCD.
-3.	El valor ADC y el voltaje se muestran en la segunda línea.
+2.	Arduino muestra la Humedad en el LCD.
+3.	El valor de la temperatura se muestra en segunda linea.
 4.	El LED RGB indica el estado térmico:
 o	Menos de 20 grados: azul
 o	Entre 20 y 28 grados: verde
